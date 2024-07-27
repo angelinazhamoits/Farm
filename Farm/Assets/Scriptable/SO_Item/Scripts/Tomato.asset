@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274ee7ee8807d48c6bd43a253ee2042b, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  Id: 0
+  uiDisplay: {fileID: 21300000, guid: f2578da65d92f4ba685d4ffa7d8943e3, type: 3}
+  type: 1
+  description: 
+  _ripeing_stage_1: {fileID: 1903297692978248, guid: e41a0d60e9fda48898b138aedb1d0ef0, type: 3}
+  _ripeing_stage_2: {fileID: 1147994195056072, guid: 8e9e50e8cc6eb4429a3f4810a0116fdd, type: 3}
+  _ripeing_stage_3: {fileID: 1800831289374606, guid: 676a72b1ce5314b0aa53a22a43dba1d9, type: 3}
+  _riped: {fileID: 4001513154332778479, guid: 249c08a0bd1db4e3f93f0967f6ad040c, type: 3}
+  _isRipe: 0
